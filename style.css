@@ -66,6 +66,22 @@ h3 {
   color: #333;
 }
 
+.oeuvres ul {
+  padding-left: 0;
+  list-style: none;
+}
+
+.oeuvres li {
+  margin-bottom: 25px;
+}
+
+.detail {
+  display: block;
+  margin-top: 5px;
+  font-style: italic;
+  color: #555;
+}
+
 ul {
   padding-left: 20px;
 }
